@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+opentts_abc/VERSION
+opentts_abc/__init__.py
+opentts_abc/py.typed
+opentts_abc/ssml.py
+opentts_abc.egg-info/PKG-INFO
+opentts_abc.egg-info/SOURCES.txt
+opentts_abc.egg-info/dependency_links.txt
+opentts_abc.egg-info/requires.txt
+opentts_abc.egg-info/top_level.txt

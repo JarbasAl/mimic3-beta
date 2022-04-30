@@ -1,0 +1,3 @@
+[console_scripts]
+mimic3-server = mimic3_http.__main__:main
+

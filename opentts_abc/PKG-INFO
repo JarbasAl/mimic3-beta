@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: opentts_abc
+Version: 0.1.0
+Summary: Abstract base classes for Open Text to Speech system
+Home-page: http://github.com/MycroftAI//mimic3
+Author: Michael Hansen
+Author-email: michael.hansen@mycroft.ai
+License: AGPLv3+
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+
+UNKNOWN
+

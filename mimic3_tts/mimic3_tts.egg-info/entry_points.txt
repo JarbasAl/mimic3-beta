@@ -1,0 +1,3 @@
+[console_scripts]
+mimic3 = mimic3_tts.__main__:main
+mimic3-download = mimic3_tts.download:main
